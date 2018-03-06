@@ -1,1 +1,2 @@
-Vinh mark d?p trai vô d?i 
+Vinh mark d?p trai vï¿½ d?i 
+https://www.aspsnippets.com/Articles/Implement-Paging-in-ASPNet-ListView-control-using-DataPager-without-using-DataSource-control.aspx
